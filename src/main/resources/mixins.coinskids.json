@@ -1,0 +1,9 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.throwing.coinskids.mixins",
+  "refmap": "mixins.coinskids.refmap.json",
+  "mixins": [
+    "MixinGuiContainer"
+  ],
+  "verbose": true
+}
