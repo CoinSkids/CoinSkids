@@ -1,6 +1,6 @@
 
 <h1 align="center">CoinSkids</h1>
-CoinSkids is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock.
+CoinSkids is a feature rich 1.8.9 Minecraft forge mod for Hypixel Skyblock!
 
 ## Getting Started
 
